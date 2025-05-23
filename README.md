@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hello, I'm Rayhan — A Passionate Java Developer with 7 years industrial experience
 
-<!--
-**Rayhanshuvo/Rayhanshuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 I'm a Java Developer with expertise in:
+--------------------------------------------------------------
+⚙️ Spring Boot — REST APIs, MVC, Spring Security, Data JPA, Spring cloud, Netflix
+☁️ Cloud Platforms — AWS 
+🧠 I love building scalable backend systems and clean UIs
 
-Here are some ideas to get you started:
+📌 Featured Projects
+🔐 Secure Login System — Spring Boot + JWT + Mysql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect
+📧 Email: rayhanshuvo.bd@gmail.com
+   Phone: +8801730464658
