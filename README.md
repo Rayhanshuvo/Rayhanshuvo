@@ -1,14 +1,8 @@
-👋 Hello, I'm Rayhan — A Passionate Java Developer with 7 years industrial experience
-
-### 🚀 I'm a Java Developer with expertise in:
---------------------------------------------------------------
-⚙️ Spring Boot — REST APIs, MVC, Spring Security, Data JPA, Spring cloud, Netflix
-☁️ Cloud Platforms — AWS 
-🧠 I love building scalable backend systems and clean UIs
-
-📌 Featured Projects
-🔐 Secure Login System — Spring Boot + JWT + Mysql
+I have been building and creating high-performance backend systems utilizing Core Java and Spring Boot 
+for more than eight years as a  Java Backend Engineer. knowledgeable about scalable system design,
+REST APIs, and microservices architecture. demonstrated capacity to create production-grade services using 
+Dockerized deployments and Kafka-based communications.
 
 📫 Let's Connect
 📧 Email: rayhanshuvo.bd@gmail.com
-   Phone: +8801730464658
+   Phone: +601169479883
